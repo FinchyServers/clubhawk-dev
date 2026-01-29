@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Party Games",
+    "data": "/Name=Party Games\n/Theme=#3b82f6\nTruth/Color=#3b82f6\nDare/Color=#8b5cf6\nSkip/bias=0.5/Color=#6366f1\nChallenge/bias=1.5/Color=#a855f7"
+  },
+  {
+    "name": "Party Gamesdssd",
+    "data": "/Name=Party Gamesdssd\n/Theme=#3b82f6\nTruth/Color=#3b82f6\nDare/Color=#8b5cf6\nSkip/bias=0.5/Color=#6366f1\nChallenge/bias=1.5/Color=#a855f7"
+  },
+  {
+    "name": "Party Gamesrrr",
+    "data": "/Name=Party Gamesrrr\n/Theme=#3b82f6\nTruth/Color=#3b82f6\nDare/Color=#8b5cf6\nSkip/bias=0.5/Color=#6366f1\nChallenge/bias=1.5/Color=#a855f7"
+  }
+]
