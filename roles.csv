@@ -1,2 +1,3 @@
-Name
-tert
+Name,dancer,staff,vip
+TestUser1,FALSE,TRUE,TRUE
+TestUser2,TRUE,FALSE,FALSE
