@@ -1,6 +1,6 @@
 [
   {
     "name": "Party Games",
-    "data": "/Name=Party Games\n/Theme=#3b82f6\nTruth/Color=#3b82f6\nDare/Color=#8b5cf6\nSkip/bias=0.5/Color=#6366f1\nChallenge/bias=1.5/Color=#a855f7"
+    "data": "/Name=Party Games\n/Theme=#3b82f6\nTruth\nDare/Color=#8b5cf6\nSkip/bias=0.5/Color=#6366f1\nChallenge/bias=1.5/Color=#a855f7"
   }
 ]
