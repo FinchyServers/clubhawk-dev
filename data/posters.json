@@ -3,84 +3,90 @@
   "slots": [
     {
       "slotNumber": 1,
-      "isActive": true,
+      "isActive": false,
       "fileName": "POSTERS_Poster_01.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_01.jpg",
-      "title": "Test",
-      "lastModified": "2026-01-29T22:13:35.477Z",
+      "title": "Empty Slot",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
-      "tags": [
-        "tat"
-      ]
+      "frameId": null,
+      "tags": []
     },
     {
       "slotNumber": 2,
-      "isActive": true,
+      "isActive": false,
       "fileName": "POSTERS_Poster_02.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_02.jpg",
-      "title": "G6VhkgpbkAAqXWl",
-      "lastModified": "2026-01-29T22:38:02.568Z",
-      "isLandscape": true,
+      "title": "Empty Slot",
+      "lastModified": "2026-08-20T17:24:13.601Z",
+      "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
       "slotNumber": 3,
-      "isActive": true,
+      "isActive": false,
       "fileName": "POSTERS_Poster_03.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_03.jpg",
-      "title": "G4pm0KhbQAAyqr9",
-      "lastModified": "2026-01-29T22:38:03.479Z",
+      "title": "Empty Slot",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
       "slotNumber": 4,
-      "isActive": true,
+      "isActive": false,
       "fileName": "POSTERS_Poster_04.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_04.jpg",
-      "title": "G4qMhXkbQAAx6dl",
-      "lastModified": "2026-01-29T22:38:04.414Z",
-      "isLandscape": true,
+      "title": "Empty Slot",
+      "lastModified": "2026-08-20T17:24:13.601Z",
+      "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
       "slotNumber": 5,
-      "isActive": true,
+      "isActive": false,
       "fileName": "POSTERS_Poster_05.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_05.jpg",
-      "title": "G4qUDfbaoAAQUCQ",
-      "lastModified": "2026-01-29T22:38:05.439Z",
-      "isLandscape": true,
+      "title": "Empty Slot",
+      "lastModified": "2026-08-20T17:24:13.601Z",
+      "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
       "slotNumber": 6,
-      "isActive": true,
+      "isActive": false,
       "fileName": "POSTERS_Poster_06.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_06.jpg",
-      "title": "G4oCoi5bQAQgTJ_",
-      "lastModified": "2026-01-29T22:38:06.491Z",
-      "isLandscape": true,
+      "title": "Empty Slot",
+      "lastModified": "2026-08-20T17:24:13.601Z",
+      "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
       "slotNumber": 7,
-      "isActive": true,
+      "isActive": false,
       "fileName": "POSTERS_Poster_07.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_07.jpg",
-      "title": "G4phrv2bsAEhonF",
-      "lastModified": "2026-01-29T22:38:07.728Z",
-      "isLandscape": true,
+      "title": "Empty Slot",
+      "lastModified": "2026-08-20T17:24:13.601Z",
+      "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
       "slotNumber": 8,
-      "isActive": true,
+      "isActive": false,
       "fileName": "POSTERS_Poster_08.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_08.jpg",
-      "title": "Aviane logo",
-      "lastModified": "2026-01-29T22:38:08.837Z",
-      "isLandscape": true,
+      "title": "Empty Slot",
+      "lastModified": "2026-08-20T17:24:13.601Z",
+      "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -89,8 +95,9 @@
       "fileName": "POSTERS_Poster_09.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_09.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -99,8 +106,9 @@
       "fileName": "POSTERS_Poster_10.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_10.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -109,8 +117,9 @@
       "fileName": "POSTERS_Poster_11.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_11.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -119,8 +128,9 @@
       "fileName": "POSTERS_Poster_12.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_12.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -129,8 +139,9 @@
       "fileName": "POSTERS_Poster_13.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_13.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -139,8 +150,9 @@
       "fileName": "POSTERS_Poster_14.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_14.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -149,8 +161,9 @@
       "fileName": "POSTERS_Poster_15.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_15.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -159,8 +172,9 @@
       "fileName": "POSTERS_Poster_16.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_16.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -169,8 +183,9 @@
       "fileName": "POSTERS_Poster_17.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_17.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -179,8 +194,9 @@
       "fileName": "POSTERS_Poster_18.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_18.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -189,8 +205,9 @@
       "fileName": "POSTERS_Poster_19.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_19.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -199,8 +216,9 @@
       "fileName": "POSTERS_Poster_20.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_20.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -209,8 +227,9 @@
       "fileName": "POSTERS_Poster_21.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_21.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -219,8 +238,9 @@
       "fileName": "POSTERS_Poster_22.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_22.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -229,8 +249,9 @@
       "fileName": "POSTERS_Poster_23.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_23.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -239,8 +260,9 @@
       "fileName": "POSTERS_Poster_24.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_24.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -249,8 +271,9 @@
       "fileName": "POSTERS_Poster_25.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_25.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -259,8 +282,9 @@
       "fileName": "POSTERS_Poster_26.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_26.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -269,8 +293,9 @@
       "fileName": "POSTERS_Poster_27.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_27.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -279,8 +304,9 @@
       "fileName": "POSTERS_Poster_28.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_28.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -289,8 +315,9 @@
       "fileName": "POSTERS_Poster_29.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_29.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -299,8 +326,9 @@
       "fileName": "POSTERS_Poster_30.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_30.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -309,8 +337,9 @@
       "fileName": "POSTERS_Poster_31.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_31.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -319,8 +348,9 @@
       "fileName": "POSTERS_Poster_32.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_32.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -329,8 +359,9 @@
       "fileName": "POSTERS_Poster_33.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_33.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -339,8 +370,9 @@
       "fileName": "POSTERS_Poster_34.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_34.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -349,8 +381,9 @@
       "fileName": "POSTERS_Poster_35.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_35.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -359,8 +392,9 @@
       "fileName": "POSTERS_Poster_36.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_36.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -369,8 +403,9 @@
       "fileName": "POSTERS_Poster_37.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_37.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -379,8 +414,9 @@
       "fileName": "POSTERS_Poster_38.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_38.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -389,8 +425,9 @@
       "fileName": "POSTERS_Poster_39.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_39.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -399,8 +436,9 @@
       "fileName": "POSTERS_Poster_40.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_40.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -409,8 +447,9 @@
       "fileName": "POSTERS_Poster_41.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_41.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -419,8 +458,9 @@
       "fileName": "POSTERS_Poster_42.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_42.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -429,8 +469,9 @@
       "fileName": "POSTERS_Poster_43.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_43.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -439,8 +480,9 @@
       "fileName": "POSTERS_Poster_44.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_44.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -449,8 +491,9 @@
       "fileName": "POSTERS_Poster_45.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_45.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -459,8 +502,9 @@
       "fileName": "POSTERS_Poster_46.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_46.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -469,8 +513,9 @@
       "fileName": "POSTERS_Poster_47.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_47.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -479,8 +524,9 @@
       "fileName": "POSTERS_Poster_48.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_48.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -489,8 +535,9 @@
       "fileName": "POSTERS_Poster_49.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_49.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     },
     {
@@ -499,8 +546,9 @@
       "fileName": "POSTERS_Poster_50.jpg",
       "imageUrl": "https://raw.githubusercontent.com/FinchyServers/clubhawk-dev/main/posters/POSTERS_Poster_50.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-01-29T22:38:08.878Z",
+      "lastModified": "2026-08-20T17:24:13.601Z",
       "isLandscape": false,
+      "frameId": null,
       "tags": []
     }
   ]
